@@ -1,0 +1,19 @@
+{
+  "name": "koa-protobuf-demo",
+  "version": "1.0.0",
+  "description": "koa protobuf requrst demo!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "koa",
+    "protobuf"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cyy0418/koa-protobuf-demo.git"
+  },
+  "author": "cyy",
+  "license": "ISC"
+}
