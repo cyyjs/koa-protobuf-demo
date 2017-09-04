@@ -4,7 +4,8 @@
   "description": "koa protobuf requrst demo!",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "build": "node build.js"
   },
   "keywords": [
     "koa",
@@ -15,5 +16,9 @@
     "url": "git@github.com:cyy0418/koa-protobuf-demo.git"
   },
   "author": "cyy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "protobufjs": "^6.8.0"
+  }
 }
